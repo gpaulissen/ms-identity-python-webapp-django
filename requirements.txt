@@ -1,3 +1,4 @@
-ms_identity_python[django] @ https://github.com/azure-samples/ms-identity-python/archive/refs/heads/0.9.zip
+# ms_identity_python[django] @ https://github.com/azure-samples/ms-identity-python/archive/refs/heads/0.9.zip
+identity[django]
 python-dotenv<0.22
 requests>=2,<3
